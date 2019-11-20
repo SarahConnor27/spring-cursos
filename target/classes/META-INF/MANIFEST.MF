@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: audrin
+Build-Jdk: 11.0.4
+Implementation-Title: exemplo-spring-boot
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: br.com.curso
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/exemplo-spring-boot
+Created-By: Maven Integration for Eclipse
+
